@@ -8,6 +8,7 @@ public class HelloWorld2 {
 		System.out.println("zzzzz");
 		
 		System.out.println("zz");
+		System.out.println("asdasdasd");
 	}
 
 }
